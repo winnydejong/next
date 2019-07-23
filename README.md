@@ -8,6 +8,6 @@ In this repository I'll collect some Jupyter Notebooks over time, that include p
 Some Notebooks will be in Dutch, others will be in English. An overview of all of them can be found here: 
 
 
-| Name Notebook                                        | Content                                                                                                                                                                                             | Language |
+| Notebook                                        | Content                                                                                                                                                                                             | Language |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| 190722 Almanak Gemeenten Scraper + Toelichting.ipynb | This Notebook contains a scraper to collect all contactinfo for every county (gemeente) in the Netherlands from almanak.overheid.nl. Builds upon the 4th module of the Python for Journalists MOOC. | NL       |
+| [190722 Almanak Gemeenten Scraper + Toelichting.ipynb](https://github.com/winnydejong/next/blob/master/190722%20Almanak%20Gemeenten%20Scraper%20%2B%20Toelichting.ipynb) | This Notebook contains a scraper to collect all contactinfo for every county (gemeente) in the Netherlands from [almanak.overheid.nl](https://almanak.overheid.nl/). Builds upon the [4th module of the Python for Journalists MOOC](https://datajournalism.com/watch/python-for-journalists). | NL       |
