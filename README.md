@@ -3,7 +3,7 @@
 
 **So, you started learning Python. Now what?**
 
-The [Python for Journalists MOOC]() I got to create for Datajournalism.com has found its way to journalists eager to learn Python. Which off course is great. But when you're done with that course, what's next?
+The [Python for Journalists MOOC](https://datajournalism.com/watch/python-for-journalists) I got to create for [Datajournalism.com](https://datajournalism.com) has found its way to journalists eager to learn Python. Which off course is great. But when you're done with that course, what's next?
 
 In this living repository I'll collect Jupyter Notebooks that contain code that I actually wrote and used in the newsroom. To make sure it will help you learn Python, I'll add comments, links and tips to my code. If I do this right, my code should become a workbook in which you can practice. :)
 
