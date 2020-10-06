@@ -1,5 +1,5 @@
 # Next
-*Last updated: september 24th, 2020*
+*Last updated: October 6th, 2020*
 
 **So, you started learning Python. Now what?**
 
